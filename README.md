@@ -7,10 +7,9 @@ Click Code ( Green Button ),  And Then Click Download ZIP.
 HOW TO RUN THE EXECUTOR (IMPORTANT) :
 First Things First You Need To Extract The File.
 If It Gives A WinRar File Again Then Extract It Again.
-The File Should Then Be Named ExploitTemplate ( To Create It I Used A Template ).
-Go Into ExploitTemplate And Double Click ExploitTemplate, Then You Should Be Getting Much Files And You Have To Double Click On "bin".
-When You Are In Bin Double Click Debug And Run "ZExecutor.exe".
-And Done! You Should Have The Executor Running!
+Then Click ZExecutor And Again Click ZExecutor, And Click ZExecutor Again, And Click It Once Again,And 1 More time.
+Then When You Clicked All Of Those ZExecutor You Should Be Seeings " ZExecutor.exe " Before Running It Disable Antivirus Or It Will Break.
+Then You Are Done!
 
 NOTE :
 Deactivate Antivirus Otherwise The Antivirus Will Delete The Exe File And It Will Close It.
